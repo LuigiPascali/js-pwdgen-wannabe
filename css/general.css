@@ -2,6 +2,7 @@
     GENERAL
 */
 
+
 /* 
     VARIABLES
 */
@@ -9,8 +10,11 @@
 :root {
     /* Color Palette */
     
-    --light_color:#FFFFFF ;
-    --dark_color: #0A0A0A ;
+    --light_color:#FFFFFF;
+    --dark_color: #0A0A0A;
+    --navbar_color: #D0D5D9;
+    --button_color: #734D62;
+    --hover_color: #46788C;
 
 }
 
