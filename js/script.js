@@ -8,5 +8,5 @@ button.addEventListener('click', function() {
   const favouriteColor = prompt('Inserisci il tuo colore preferito');
 
   const output = document.getElementById('txt');
-  output.innerHTML = `${firstName} ${lastName} ${favouriteColor} 101`;
+  output.innerHTML = `${firstName}${lastName}${favouriteColor}101`;
 });
